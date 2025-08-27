@@ -17,7 +17,7 @@ export default function HomePage() {
           
           <div>
             <h1 className="text-3xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
-              Language Learning AI
+              Hello!
             </h1>
           </div>
 
