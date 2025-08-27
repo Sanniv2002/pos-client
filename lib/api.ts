@@ -27,10 +27,10 @@
   }
   
   export interface ResultItem {
-    'Word (Hindi)': string;
-    'Word (English)': string;
-    'Sentence (Hindi)': string;
-    'Sentence (English)': string;
+    word_org: string;
+    word_eng: string;
+    sent_org: string;
+    sent_eng: string;
   }
   
   export interface ResultsResponse {
